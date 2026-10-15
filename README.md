@@ -5,6 +5,7 @@
 ## 目录
 
 - `materials/videos/`：视频素材，目前包含 `sdf.mp4`。
+- `materials/audio/音乐素材/`：音乐和音效素材，保留 `音乐/`、`音效/` 分类，共 28 个音频文件。
 
 后续可按需要在 `materials/` 下添加 `images/`、`audio/` 等目录。
 
